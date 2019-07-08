@@ -5,4 +5,4 @@ def run_guessing_game
     elsif input == "exit"
       "Goodbye!"
     else 
-      "Sorry! The computer guessed <number>"
+      "Sorry! The computer guessed <number>."
