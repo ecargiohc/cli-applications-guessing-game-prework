@@ -1,3 +1,4 @@
 def run_guessing_game
-  rand(1...6)
-  if 
+  rando = rand(1...6)
+  if input == rando
+    
